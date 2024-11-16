@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="left">Hello! 👋</h1>
 
-<!--
-**AlanOlveraAguilera/AlanOlveraAguilera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Hi! I’m Alan Olvera Aguilera, an aspiring frontend developer diving into the world of HTML, CSS, and JavaScript. I’m passionate about creating beautiful, functional websites and bringing ideas to life through code!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🎮 Playing video games  <br>📚 Reading  <br>📊 Economics</p>
+
+###
+
+<h2 align="left">Hobbies</h2>
+
+###
+
+<p align="left">💻 Exploring programming<br>🇩🇪 Studying German<br>🐾 Taking my pets for walks<br>🎨 Sketching and drawing</p>
+
+###
